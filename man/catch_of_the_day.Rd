@@ -2,19 +2,19 @@
 % Please edit documentation in R/catch_of_the_day.R
 \name{catch_of_the_day}
 \alias{catch_of_the_day}
-\title{A function to report back on Mouse cat's hunts}
+\title{A function to report back on The Bitch Queen's hunts}
 \usage{
 catch_of_the_day(total_catch, prey_items, day)
 }
 \arguments{
-\item{total_catch}{total number of items that Mouse cat caught.}
+\item{total_catch}{total number of items that The Bitch Queen caught.}
 
-\item{prey_items}{what type of prey Mouse Cat caught.}
+\item{prey_items}{what type of prey The Bitch Queen caught.}
 
 \item{day}{day of the week.}
 }
 \description{
-A function to report back on Mouse cat's hunts
+A function to report back on The Bitch Queen's hunts
 }
 \examples{
 catch_of_the_day(3, "flies", "Monday")
